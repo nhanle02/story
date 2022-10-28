@@ -17,7 +17,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
-            <img src="./assets/frontend/images/img_h_2.jpg" alt="image" class="img-fluid rounded">
+            <img src="../../assets/frontend/images/img_h_2.jpg" alt="image" class="img-fluid rounded">
           </div>
           <div class="col-lg-6 pl-lg-5">
             <h3 class="mb-4 section-title">History</h3>
@@ -55,7 +55,7 @@
         <div class="slider-team owl-carousel owl-3-slider">
           <div class="team">
             <div class="pic">
-              <img src="./assets/frontend/images/person_1.jpg" alt="Image" class="img-fluid">
+              <img src="../../assets/frontend/images/person_1.jpg" alt="Image" class="img-fluid">
             </div>
             <h3 clas><a href="#"><span class="">Jeremy</span> Walker</a></h3>
             <span class="d-block position">CEO, Founder, Atty.</span>
@@ -65,7 +65,7 @@
           </div>
           <div class="team">
             <div class="pic">
-              <img src="./assets/frontend/images/person_2.jpg" alt="Image" class="img-fluid">
+              <img src="../../assets/frontend/images/person_2.jpg" alt="Image" class="img-fluid">
             </div>
             <h3 clas><a href="#"><span class="">Lawson</span> Arnold</a></h3>
             <span class="d-block position">CEO, Founder, Atty.</span>
@@ -76,7 +76,7 @@
 
           <div class="team">
             <div class="pic">
-              <img src="./assets/frontend/images/person_3.jpg" alt="Image" class="img-fluid">
+              <img src="../../assets/frontend/images/person_3.jpg" alt="Image" class="img-fluid">
             </div>
             <h3 clas><a href="#"><span class="">Patrik</span> White</a></h3>
             <span class="d-block position">CEO, Founder, Atty.</span>
@@ -87,7 +87,7 @@
 
           <div class="team">
             <div class="pic">
-              <img src="./assets/frontend/images/person_4.jpg" alt="Image" class="img-fluid">
+              <img src="../../assets/frontend/images/person_4.jpg" alt="Image" class="img-fluid">
             </div>
             <h3 clas><a href="#"><span class="">Kathryn</span> Ryan</a></h3>
             <span class="d-block position">CEO, Founder, Atty.</span>
@@ -114,7 +114,7 @@
             <div class="main-slider owl-single owl-carousel">
               <div class="testimonial mx-auto">
                 <figure class="img-wrap">
-                  <img src="./assets/frontend/images/person_2.jpg" alt="Image" class="img-fluid">
+                  <img src="../../assets/frontend/images/person_2.jpg" alt="Image" class="img-fluid">
                 </figure>
                 <h3 class="name">Adam Aderson</h3>
                 <blockquote>
@@ -124,7 +124,7 @@
 
               <div class="testimonial mx-auto">
                 <figure class="img-wrap">
-                  <img src="./assets/frontend/images/person_3.jpg" alt="Image" class="img-fluid">
+                  <img src="../../assets/frontend/images/person_3.jpg" alt="Image" class="img-fluid">
                 </figure>
                 <h3 class="name">Lukas Devlin</h3>
                 <blockquote>
@@ -134,7 +134,7 @@
 
               <div class="testimonial mx-auto">
                 <figure class="img-wrap">
-                  <img src="./assets/frontend/images/person_4.jpg" alt="Image" class="img-fluid">
+                  <img src="../../assets/frontend/images/person_4.jpg" alt="Image" class="img-fluid">
                 </figure>
                 <h3 class="name">Kayla Bryant</h3>
                 <blockquote>

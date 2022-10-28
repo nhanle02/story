@@ -4,7 +4,7 @@
 
     <div class="featured-post single-article">
       <div class="container">
-        <div class="post-slide single-page" style="background-image: url('./assets/frontend/images/img_h_7.jpg');">
+        <div class="post-slide single-page" style="background-image: url('../../assets/frontend/images/img_h_7.jpg');">
           <div class="text-wrap pb-5">
             <div class="share">
               <ul class="list-unstyled">
@@ -74,7 +74,7 @@
               <ul class="comment-list">
                 <li class="comment">
                   <div class="vcard bio">
-                    <img src="./assets/frontend/images/person_6.jpg" alt="Image placeholder">
+                    <img src="../../assets/frontend/images/person_6.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
                     <h3>Irish Smith</h3>
@@ -86,7 +86,7 @@
 
                 <li class="comment">
                   <div class="vcard bio">
-                    <img src="./assets/frontend/images/person_5.jpg" alt="Image placeholder">
+                    <img src="../../assets/frontend/images/person_5.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
                     <h3>Christine Stewart</h3>
@@ -98,7 +98,7 @@
                   <ul class="children">
                     <li class="comment">
                       <div class="vcard bio">
-                        <img src="./assets/frontend/images/person_4.jpg" alt="Image placeholder">
+                        <img src="../../assets/frontend/images/person_4.jpg" alt="Image placeholder">
                       </div>
                       <div class="comment-body">
                         <h3>Chintan Patel</h3>
@@ -111,7 +111,7 @@
                       <ul class="children">
                         <li class="comment">
                           <div class="vcard bio">
-                            <img src="./assets/frontend/images/person_3.jpg" alt="Image placeholder">
+                            <img src="../../assets/frontend/images/person_3.jpg" alt="Image placeholder">
                           </div>
                           <div class="comment-body">
                             <h3>John Doe</h3>
@@ -123,7 +123,7 @@
                             <ul class="children">
                               <li class="comment">
                                 <div class="vcard bio">
-                                  <img src="./assets/frontend/images/person_2.jpg" alt="Image placeholder">
+                                  <img src="../../assets/frontend/images/person_2.jpg" alt="Image placeholder">
                                 </div>
                                 <div class="comment-body">
                                   <h3>Ben Afflick</h3>
@@ -141,7 +141,7 @@
 
                 <li class="comment">
                   <div class="vcard bio">
-                    <img src="./assets/frontend/images/person_1.jpg" alt="Image placeholder">
+                    <img src="../../assets/frontend/images/person_1.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
                     <h3>Jean Doe</h3>
@@ -199,7 +199,7 @@
           <div class="mb-4">
             <a href="https://vimeo.com/342333493" data-fancybox class="video-wrap">
               <span class="play-wrap"><span class="icon-play"></span></span>
-              <img src="./assets/frontend/images/img_h_5.jpg" alt="Image" class="img-fluid rounded">
+              <img src="../../assets/frontend/images/img_h_5.jpg" alt="Image" class="img-fluid rounded">
             </a>
           </div>  
 

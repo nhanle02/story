@@ -30,17 +30,17 @@
       </div>
     </div>
 
-    <script src="./assets/vendor/jquery/jquery-3.4.1.min.js"></script>
-    <script src="./assets/frontend/js/popper.min.js"></script>
-    <script src="./assets/vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script src="./assets/frontend/js/owl.carousel.min.js"></script>
-    <script src="./assets/frontend/js/aos.js"></script>
-    <script src="./assets/frontend/js/imagesloaded.pkgd.js"></script>
-    <script src="./assets/frontend/js/isotope.pkgd.min.js"></script>
-    <script src="./assets/frontend/js/jquery.animateNumber.min.js"></script>
-    <script src="./assets/frontend/js/jquery.waypoints.min.js"></script>
-    <script src="./assets/frontend/js/jquery.fancybox.min.js"></script>
-    <script src="./assets/frontend/js/custom.js"></script>
+    <script src="../../assets/vendor/jquery/jquery-3.4.1.min.js"></script>
+    <script src="../../assets/frontend/js/popper.min.js"></script>
+    <script src="../../assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../assets/frontend/js/owl.carousel.min.js"></script>
+    <script src="../../assets/frontend/js/aos.js"></script>
+    <script src="../../assets/frontend/js/imagesloaded.pkgd.js"></script>
+    <script src="../../assets/frontend/js/isotope.pkgd.min.js"></script>
+    <script src="../../assets/frontend/js/jquery.animateNumber.min.js"></script>
+    <script src="../../assets/frontend/js/jquery.waypoints.min.js"></script>
+    <script src="../../assets/frontend/js/jquery.fancybox.min.js"></script>
+    <script src="../../assets/frontend/js/custom.js"></script>
 
     
   </body>

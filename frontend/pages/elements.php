@@ -20,9 +20,9 @@
       </div>
       <div class="col-lg-12">
         <div class="main-slider owl-single dots-absolute owl-carousel">
-          <img src="./assets/frontend/images/img_h_1.jpg" alt="Image" class="img-fluid">
-          <img src="./assets/frontend/images/img_h_2.jpg" alt="Image" class="img-fluid">
-          <img src="./assets/frontend/images/img_h_3.jpg" alt="Image" class="img-fluid">
+          <img src="../../assets/frontend/images/img_h_1.jpg" alt="Image" class="img-fluid">
+          <img src="../../assets/frontend/images/img_h_2.jpg" alt="Image" class="img-fluid">
+          <img src="../../assets/frontend/images/img_h_3.jpg" alt="Image" class="img-fluid">
         </div>
       </div>
     </div>
@@ -84,22 +84,22 @@
       <div class="col-lg-12">
         <div class="row gutter-1 gallery">
           <div class="col-4">
-            <a href="./assets/frontend/images/img_h_1.jpg" class="gal-item" data-fancybox="gal"><img src="./assets/frontend/images/img_h_1.jpg" alt="Image" class="img-fluid"></a>
+            <a href="../../assets/frontend/images/img_h_1.jpg" class="gal-item" data-fancybox="gal"><img src="../../assets/frontend/images/img_h_1.jpg" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-4">
-            <a href="./assets/frontend/images/img_h_2.jpg" class="gal-item" data-fancybox="gal"><img src="./assets/frontend/images/img_h_2.jpg" alt="Image" class="img-fluid"></a>
+            <a href="../../assets/frontend/images/img_h_2.jpg" class="gal-item" data-fancybox="gal"><img src="../../assets/frontend/images/img_h_2.jpg" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-4">
-            <a href="./assets/frontend/images/img_h_3.jpg" class="gal-item" data-fancybox="gal"><img src="./assets/frontend/images/img_h_3.jpg" alt="Image" class="img-fluid"></a>
+            <a href="../../assets/frontend/images/img_h_3.jpg" class="gal-item" data-fancybox="gal"><img src="../../assets/frontend/images/img_h_3.jpg" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-4">
-            <a href="./assets/frontend/images/img_h_4.jpg" class="gal-item" data-fancybox="gal"><img src="./assets/frontend/images/img_h_4.jpg" alt="Image" class="img-fluid"></a>
+            <a href="../../assets/frontend/images/img_h_4.jpg" class="gal-item" data-fancybox="gal"><img src="../../assets/frontend/images/img_h_4.jpg" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-4">
-            <a href="./assets/frontend/images/img_h_5.jpg" class="gal-item" data-fancybox="gal"><img src="./assets/frontend/images/img_h_5.jpg" alt="Image" class="img-fluid"></a>
+            <a href="../../assets/frontend/images/img_h_5.jpg" class="gal-item" data-fancybox="gal"><img src="../../assets/frontend/images/img_h_5.jpg" alt="Image" class="img-fluid"></a>
           </div>
           <div class="col-4">
-            <a href="./assets/frontend/images/img_h_6.jpg" class="gal-item" data-fancybox="gal"><img src="./assets/frontend/images/img_h_6.jpg" alt="Image" class="img-fluid"></a>
+            <a href="../../assets/frontend/images/img_h_6.jpg" class="gal-item" data-fancybox="gal"><img src="../../assets/frontend/images/img_h_6.jpg" alt="Image" class="img-fluid"></a>
           </div>
         </div>
       </div>
@@ -114,7 +114,7 @@
       <div class="col-lg-7">
         <a href="https://vimeo.com/342333493" data-fancybox class="video-wrap">
           <span class="play-wrap"><span class="icon-play"></span></span>
-          <img src="./assets/frontend/images/img_h_5.jpg" alt="Image" class="img-fluid rounded">
+          <img src="../../assets/frontend/images/img_h_5.jpg" alt="Image" class="img-fluid rounded">
         </a>
       </div>
     </div>
@@ -202,7 +202,7 @@
         <div class="main-slider owl-single owl-carousel">
           <div class="testimonial mx-auto">
             <figure class="img-wrap">
-              <img src="./assets/frontend/images/person_2.jpg" alt="Image" class="img-fluid">
+              <img src="../../assets/frontend/images/person_2.jpg" alt="Image" class="img-fluid">
             </figure>
             <h3 class="name">Adam Aderson</h3>
             <blockquote>
@@ -212,7 +212,7 @@
 
           <div class="testimonial mx-auto">
             <figure class="img-wrap">
-              <img src="./assets/frontend/images/person_3.jpg" alt="Image" class="img-fluid">
+              <img src="../../assets/frontend/images/person_3.jpg" alt="Image" class="img-fluid">
             </figure>
             <h3 class="name">Lukas Devlin</h3>
             <blockquote>
@@ -222,7 +222,7 @@
 
           <div class="testimonial mx-auto">
             <figure class="img-wrap">
-              <img src="./assets/frontend/images/person_4.jpg" alt="Image" class="img-fluid">
+              <img src="../../assets/frontend/images/person_4.jpg" alt="Image" class="img-fluid">
             </figure>
             <h3 class="name">Kayla Bryant</h3>
             <blockquote>

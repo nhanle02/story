@@ -12,14 +12,14 @@
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="./assets/vendor/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="./assets/frontend/css/owl.carousel.min.css">
-  <link rel="stylesheet" href="./assets/frontend/css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="./assets/frontend/css/font_style.css">
-  <link rel="stylesheet" href="./assets/frontend/css/flaticon.css">
-  <link rel="stylesheet" href="./assets/frontend/css/jquery.fancybox.min.css">
-  <link rel="stylesheet" href="./assets/frontend/css/aos.css">
-  <link rel="stylesheet" href="./assets/frontend/css/style.css">
+  <link rel="stylesheet" href="../../assets/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../assets/frontend/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="../../assets/frontend/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../../assets/frontend/css/font_style.css">
+  <link rel="stylesheet" href="../../assets/frontend/css/flaticon.css">
+  <link rel="stylesheet" href="../../assets/frontend/css/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="../../assets/frontend/css/aos.css">
+  <link rel="stylesheet" href="../../assets/frontend/css/style.css">
 
   <title>Story Free HTML Template by Untree.co</title>
 </head>

@@ -1,4 +1,6 @@
-
+<?php
+    include($_SERVER['DOCUMENT_ROOT'] . '/configs/helpers.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 

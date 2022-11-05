@@ -23,10 +23,10 @@
     </div>
 </div>
 
-<script src="../../assets/vendor/jquery/jquery.min.js"></script>
-<script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="../../assets/vendor/jquery/jquery.easing.min.js"></script>
-<script src="../../assets/backend/js/sb-admin-2.min.js"></script>
-<script src="../../assets/vendor/jquery/Chart.min.js"></script>
-<script src="../../assets/backend/js/chart-area-demo.js"></script>
-<script src="../../assets/backend/js/chart-pie-demo.js"></script>
+<script src="../assets/vendor/jquery/jquery.min.js"></script>
+<script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="../assets/vendor/jquery/jquery.easing.min.js"></script>
+<script src="../assets/backend/js/sb-admin-2.min.js"></script>
+<script src="../assets/vendor/jquery/Chart.min.js"></script>
+<script src="../assets/backend/js/chart-area-demo.js"></script>
+<script src="../assets/backend/js/chart-pie-demo.js"></script>

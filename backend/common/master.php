@@ -3,7 +3,7 @@
 <html lang="en">
 
 <?php
-    require "./common/head.php";
+    require "head.php";
 ?>
 
 <body id="page-top">
@@ -12,7 +12,7 @@
 
         <!-- Sidebar -->
         <?php
-            require "./common/sidebar.php";
+            require "sidebar.php";
         ?>
         <!-- End of Sidebar -->
 
@@ -24,7 +24,7 @@
 
                 <!-- Topbar -->
                 <?php
-                    require "./common/header.php";
+                    require "header.php";
                 ?>
                 <!-- End of Topbar -->
 
@@ -43,7 +43,7 @@
 
             <!-- Footer -->
             <?php
-                require "./common/footer.php";
+                require "footer.php";
             ?>
             <!-- End of Footer -->
 
@@ -54,7 +54,7 @@
     <!-- End of Page Wrapper -->
 
     <?php
-        require "./common/script.php";
+        require "script.php";
     ?>
 
 </body>
